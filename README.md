@@ -1,0 +1,4 @@
+- cd ticketreader_expo
+- yarn android
+- yarn ios # you need to use macOS to build the iOS project - use the Expo app if you need to do iOS development without a Mac
+- yarn web
